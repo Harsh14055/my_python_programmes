@@ -27,4 +27,4 @@ def NQueens(n):
             board[r][c] = "."
     backTrack(0)
     print(res)
-NQueens(8)
+NQueens(7)
